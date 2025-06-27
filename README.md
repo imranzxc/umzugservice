@@ -234,3 +234,7 @@ Bei Fragen oder Problemen:
 ---
 
 **Entwickelt mit ❤️ für AlpenMove** 
+
+## Production
+
+Проект задеплоен на Vercel: [umzugservice.vercel.app/en](https://umzugservice.vercel.app/en) 
