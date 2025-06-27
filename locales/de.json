@@ -1,0 +1,159 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "calculator": "Kostenrechner",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Professionelle Umzugsservices im Kanton Luzern",
+    "subtitle": "Stressfreie Umzüge mit AlpenMove - Ihr vertrauensvoller Partner für Privat- und Firmenumzüge",
+    "cta": "Jetzt Angebot erhalten",
+    "calculator": "Kosten berechnen",
+    "phoneLabel": "Sofortige Beratung verfügbar",
+    "phoneNumber": "+41 41 123 45 67"
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Vollständige Umzugslösungen für jeden Bedarf",
+    "items": {
+      "private": {
+        "title": "Privatumzüge",
+        "subtitle": "Stressfreie Planung und Durchführung"
+      },
+      "business": {
+        "title": "Firmenumzüge",
+        "subtitle": "Effiziente Geschäftsumzüge"
+      },
+      "international": {
+        "title": "Auslandsumzüge",
+        "subtitle": "Reibungsloser Übergang ins Ausland"
+      },
+      "cleaning": {
+        "title": "Umzugsreinigung",
+        "subtitle": "Gründliche Endreinigung"
+      },
+      "disposal": {
+        "title": "Entsorgung",
+        "subtitle": "Umweltgerechte Entsorgung"
+      },
+      "storage": {
+        "title": "Lagerung",
+        "subtitle": "Sichere Lagerlösungen"
+      },
+      "piano": {
+        "title": "Klaviertransport",
+        "subtitle": "Sorgfältiger Klaviertransport"
+      },
+      "packing": {
+        "title": "Ein- & Auspackservice",
+        "subtitle": "Bequemer Ein- und Auspackservice"
+      },
+      "assembly": {
+        "title": "Möbelmontage",
+        "subtitle": "Fachgerechte Möbelmontage"
+      },
+      "lift": {
+        "title": "Möbellift",
+        "subtitle": "Effizienter Möbeltransport"
+      },
+      "transport": {
+        "title": "Möbeltransport",
+        "subtitle": "Schonender Möbeltransport"
+      },
+      "fullservice": {
+        "title": "Full-Service-Umzug",
+        "subtitle": "Rundum-Service für Ihren Umzug"
+      }
+    }
+  },
+  "calculator": {
+    "title": "Kostenrechner",
+    "subtitle": "Erhalten Sie eine sofortige Preisübersicht für Ihren Umzug",
+    "from": "Von",
+    "to": "Nach",
+    "volume": "Wohnungsgröße",
+    "floor": "Stockwerk",
+    "elevator": "Aufzug verfügbar",
+    "optionalServices": "Zusatzleistungen",
+    "calculate": "Kosten berechnen",
+    "estimate": "Geschätzter Preis",
+    "volumeOptions": {
+      "1_5": "1.5-Zimmer",
+      "2_5": "2.5-Zimmer",
+      "3_5": "3.5-Zimmer",
+      "4_5": "4.5-Zimmer",
+      "5_5": "5.5-Zimmer",
+      "6_5": "6.5-Zimmer"
+    },
+    "optionalServicesOptions": {
+      "packing": "Ein- und Auspacken",
+      "cleaning": "Reinigung",
+      "storage": "Zwischenlagerung",
+      "assembly": "Möbelmontage",
+      "piano": "Klaviertransport"
+    }
+  },
+  "testimonials": {
+    "title": "Kundenstimmen",
+    "subtitle": "Was unsere Kunden über uns sagen"
+  },
+  "about": {
+    "title": "Über AlpenMove",
+    "subtitle": "Ihr vertrauensvoller Partner für Umzüge im Kanton Luzern",
+    "description": "AlpenMove ist Ihr professioneller Umzugsservice im Herzen der Schweiz. Mit über 10 Jahren Erfahrung bieten wir maßgeschneiderte Lösungen für Privat- und Firmenkunden. Unser Team aus erfahrenen Fachkräften sorgt für stressfreie und sichere Umzüge.",
+    "values": {
+      "reliability": "Zuverlässigkeit",
+      "quality": "Qualität",
+      "punctuality": "Pünktlichkeit",
+      "care": "Sorgfalt"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Lassen Sie uns über Ihren Umzug sprechen",
+    "name": "Name",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "address": "Adresse",
+    "phoneNumber": "+41 41 123 45 67",
+    "emailAddress": "info@alpenmove.ch",
+    "officeAddress": "Bahnhofstrasse 1, 6000 Luzern, Schweiz"
+  },
+  "footer": {
+    "description": "Professionelle Umzugsservices im Kanton Luzern",
+    "quickLinks": "Schnelllinks",
+    "services": "Dienstleistungen",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "imprint": "Impressum",
+    "followUs": "Folgen Sie uns",
+    "copyright": "© 2025 AlpenMove. Alle Rechte vorbehalten."
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wie lange dauert ein typischer Umzug?",
+        "answer": "Die Dauer hängt von der Größe der Wohnung ab. Ein 2.5-Zimmer-Umzug dauert normalerweise 4-6 Stunden."
+      },
+      {
+        "question": "Bieten Sie auch Umzüge am Wochenende an?",
+        "answer": "Ja, wir bieten flexible Termine auch am Wochenende und an Feiertagen an."
+      },
+      {
+        "question": "Sind Ihre Preise transparent?",
+        "answer": "Absolut! Wir bieten detaillierte Kostenvoranschläge ohne versteckte Gebühren."
+      },
+      {
+        "question": "Bieten Sie Versicherung für den Umzug?",
+        "answer": "Ja, alle unsere Umzüge sind vollständig versichert."
+      }
+    ]
+  }
+} 

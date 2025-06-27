@@ -1,0 +1,159 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Servizi",
+    "calculator": "Calcolatore",
+    "about": "Chi siamo",
+    "contact": "Contatto",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Servizi di trasloco professionali nel Canton Lucerna",
+    "subtitle": "Traslochi senza stress con AlpenMove - Il tuo partner di fiducia per traslochi privati e commerciali",
+    "cta": "Richiedi preventivo",
+    "calculator": "Calcola costi",
+    "phoneLabel": "Consulenza immediata disponibile",
+    "phoneNumber": "+41 41 123 45 67"
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "subtitle": "Soluzioni complete di trasloco per ogni esigenza",
+    "items": {
+      "private": {
+        "title": "Traslochi privati",
+        "subtitle": "Pianificazione ed esecuzione senza stress"
+      },
+      "business": {
+        "title": "Traslochi aziendali",
+        "subtitle": "Trasferimenti aziendali efficienti"
+      },
+      "international": {
+        "title": "Traslochi internazionali",
+        "subtitle": "Transizione senza problemi all'estero"
+      },
+      "cleaning": {
+        "title": "Pulizia post-trasloco",
+        "subtitle": "Pulizia finale approfondita"
+      },
+      "disposal": {
+        "title": "Smaltimento",
+        "subtitle": "Smaltimento rispettoso dell'ambiente"
+      },
+      "storage": {
+        "title": "Magazzinaggio",
+        "subtitle": "Soluzioni di stoccaggio sicure"
+      },
+      "piano": {
+        "title": "Trasporto pianoforte",
+        "subtitle": "Trasporto pianoforte accurato"
+      },
+      "packing": {
+        "title": "Servizio imballaggio",
+        "subtitle": "Imballaggio e disimballaggio comodi"
+      },
+      "assembly": {
+        "title": "Montaggio mobili",
+        "subtitle": "Montaggio mobili professionale"
+      },
+      "lift": {
+        "title": "Montacarichi",
+        "subtitle": "Trasporto mobili efficiente"
+      },
+      "transport": {
+        "title": "Trasporto mobili",
+        "subtitle": "Trasporto mobili delicato"
+      },
+      "fullservice": {
+        "title": "Trasloco completo",
+        "subtitle": "Servizio completo per il tuo trasloco"
+      }
+    }
+  },
+  "calculator": {
+    "title": "Calcolatore costi",
+    "subtitle": "Ottieni una panoramica istantanea dei prezzi per il tuo trasloco",
+    "from": "Da",
+    "to": "A",
+    "volume": "Dimensione appartamento",
+    "floor": "Piano",
+    "elevator": "Ascensore disponibile",
+    "optionalServices": "Servizi aggiuntivi",
+    "calculate": "Calcola costi",
+    "estimate": "Prezzo stimato",
+    "volumeOptions": {
+      "1_5": "1.5-Locali",
+      "2_5": "2.5-Locali",
+      "3_5": "3.5-Locali",
+      "4_5": "4.5-Locali",
+      "5_5": "5.5-Locali",
+      "6_5": "6.5-Locali"
+    },
+    "optionalServicesOptions": {
+      "packing": "Imballaggio e disimballaggio",
+      "cleaning": "Pulizia",
+      "storage": "Magazzinaggio temporaneo",
+      "assembly": "Montaggio mobili",
+      "piano": "Trasporto pianoforte"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonianze clienti",
+    "subtitle": "Cosa dicono di noi i nostri clienti"
+  },
+  "about": {
+    "title": "Chi è AlpenMove",
+    "subtitle": "Il tuo partner di fiducia per i traslochi nel Canton Lucerna",
+    "description": "AlpenMove è il tuo servizio di trasloco professionale nel cuore della Svizzera. Con oltre 10 anni di esperienza, offriamo soluzioni su misura per clienti residenziali e commerciali. Il nostro team di professionisti esperti garantisce traslochi senza stress e sicuri.",
+    "values": {
+      "reliability": "Affidabilità",
+      "quality": "Qualità",
+      "punctuality": "Puntualità",
+      "care": "Cura"
+    }
+  },
+  "contact": {
+    "title": "Contatto",
+    "subtitle": "Parliamo del tuo trasloco",
+    "name": "Nome",
+    "email": "Email",
+    "phone": "Telefono",
+    "message": "Messaggio",
+    "send": "Invia messaggio",
+    "address": "Indirizzo",
+    "phoneNumber": "+41 41 123 45 67",
+    "emailAddress": "info@alpenmove.ch",
+    "officeAddress": "Bahnhofstrasse 1, 6000 Lucerna, Svizzera"
+  },
+  "footer": {
+    "description": "Servizi di trasloco professionali nel Canton Lucerna",
+    "quickLinks": "Link rapidi",
+    "services": "Servizi",
+    "legal": "Legale",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "imprint": "Note legali",
+    "followUs": "Seguici",
+    "copyright": "© 2025 AlpenMove. Tutti i diritti riservati."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "questions": [
+      {
+        "question": "Quanto tempo dura un trasloco tipico?",
+        "answer": "La durata dipende dalla dimensione dell'appartamento. Un trasloco di 2.5 locali richiede solitamente 4-6 ore."
+      },
+      {
+        "question": "Offrite traslochi nei fine settimana?",
+        "answer": "Sì, offriamo appuntamenti flessibili, inclusi fine settimana e giorni festivi."
+      },
+      {
+        "question": "I vostri prezzi sono trasparenti?",
+        "answer": "Assolutamente! Forniamo preventivi dettagliati senza costi nascosti."
+      },
+      {
+        "question": "Offrite assicurazione per il trasloco?",
+        "answer": "Sì, tutti i nostri traslochi sono completamente assicurati."
+      }
+    ]
+  }
+} 

@@ -1,0 +1,159 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "calculator": "Calculateur",
+    "about": "À propos",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Services de déménagement professionnels dans le canton de Lucerne",
+    "subtitle": "Déménagements sans stress avec AlpenMove - Votre partenaire de confiance pour les déménagements privés et commerciaux",
+    "cta": "Obtenir un devis",
+    "calculator": "Calculer les coûts",
+    "phoneLabel": "Consultation immédiate disponible",
+    "phoneNumber": "+41 41 123 45 67"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Solutions de déménagement complètes pour tous les besoins",
+    "items": {
+      "private": {
+        "title": "Déménagements privés",
+        "subtitle": "Planification et exécution sans stress"
+      },
+      "business": {
+        "title": "Déménagements d'entreprise",
+        "subtitle": "Relocalisations d'entreprise efficaces"
+      },
+      "international": {
+        "title": "Déménagements internationaux",
+        "subtitle": "Transition sans heurts à l'étranger"
+      },
+      "cleaning": {
+        "title": "Nettoyage de déménagement",
+        "subtitle": "Nettoyage final approfondi"
+      },
+      "disposal": {
+        "title": "Élimination",
+        "subtitle": "Élimination respectueuse de l'environnement"
+      },
+      "storage": {
+        "title": "Stockage",
+        "subtitle": "Solutions de stockage sécurisées"
+      },
+      "piano": {
+        "title": "Transport de piano",
+        "subtitle": "Transport de piano soigneux"
+      },
+      "packing": {
+        "title": "Service d'emballage",
+        "subtitle": "Emballage et déballage pratiques"
+      },
+      "assembly": {
+        "title": "Montage de meubles",
+        "subtitle": "Montage de meubles professionnel"
+      },
+      "lift": {
+        "title": "Monte-meubles",
+        "subtitle": "Transport de meubles efficace"
+      },
+      "transport": {
+        "title": "Transport de meubles",
+        "subtitle": "Transport de meubles délicat"
+      },
+      "fullservice": {
+        "title": "Déménagement complet",
+        "subtitle": "Service complet pour votre déménagement"
+      }
+    }
+  },
+  "calculator": {
+    "title": "Calculateur de coûts",
+    "subtitle": "Obtenez un aperçu instantané des prix pour votre déménagement",
+    "from": "De",
+    "to": "Vers",
+    "volume": "Taille de l'appartement",
+    "floor": "Niveau d'étage",
+    "elevator": "Ascenseur disponible",
+    "optionalServices": "Services supplémentaires",
+    "calculate": "Calculer les coûts",
+    "estimate": "Prix estimé",
+    "volumeOptions": {
+      "1_5": "1.5-Pièces",
+      "2_5": "2.5-Pièces",
+      "3_5": "3.5-Pièces",
+      "4_5": "4.5-Pièces",
+      "5_5": "5.5-Pièces",
+      "6_5": "6.5-Pièces"
+    },
+    "optionalServicesOptions": {
+      "packing": "Emballage et déballage",
+      "cleaning": "Nettoyage",
+      "storage": "Stockage temporaire",
+      "assembly": "Montage de meubles",
+      "piano": "Transport de piano"
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages clients",
+    "subtitle": "Ce que nos clients disent de nous"
+  },
+  "about": {
+    "title": "À propos d'AlpenMove",
+    "subtitle": "Votre partenaire de confiance pour les déménagements dans le canton de Lucerne",
+    "description": "AlpenMove est votre service de déménagement professionnel au cœur de la Suisse. Avec plus de 10 ans d'expérience, nous proposons des solutions sur mesure pour les clients résidentiels et commerciaux. Notre équipe de professionnels expérimentés assure des déménagements sans stress et sécurisés.",
+    "values": {
+      "reliability": "Fiabilité",
+      "quality": "Qualité",
+      "punctuality": "Ponctualité",
+      "care": "Soin"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Parlons de votre déménagement",
+    "name": "Nom",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "address": "Adresse",
+    "phoneNumber": "+41 41 123 45 67",
+    "emailAddress": "info@alpenmove.ch",
+    "officeAddress": "Bahnhofstrasse 1, 6000 Lucerne, Suisse"
+  },
+  "footer": {
+    "description": "Services de déménagement professionnels dans le canton de Lucerne",
+    "quickLinks": "Liens rapides",
+    "services": "Services",
+    "legal": "Légal",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "imprint": "Mentions légales",
+    "followUs": "Suivez-nous",
+    "copyright": "© 2025 AlpenMove. Tous droits réservés."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "questions": [
+      {
+        "question": "Combien de temps dure un déménagement typique ?",
+        "answer": "La durée dépend de la taille de l'appartement. Un déménagement de 2.5 pièces prend généralement 4-6 heures."
+      },
+      {
+        "question": "Proposez-vous des déménagements le week-end ?",
+        "answer": "Oui, nous proposons des rendez-vous flexibles, y compris les week-ends et jours fériés."
+      },
+      {
+        "question": "Vos prix sont-ils transparents ?",
+        "answer": "Absolument ! Nous fournissons des devis détaillés sans frais cachés."
+      },
+      {
+        "question": "Proposez-vous une assurance pour le déménagement ?",
+        "answer": "Oui, tous nos déménagements sont entièrement assurés."
+      }
+    ]
+  }
+} 

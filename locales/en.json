@@ -1,0 +1,159 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "calculator": "Calculator",
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Professional Moving Services in Canton Lucerne",
+    "subtitle": "Stress-free moves with AlpenMove - Your trusted partner for residential and commercial relocations",
+    "cta": "Get Quote Now",
+    "calculator": "Calculate Costs",
+    "phoneLabel": "Immediate consultation available",
+    "phoneNumber": "+41 41 123 45 67"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete moving solutions for every need",
+    "items": {
+      "private": {
+        "title": "Residential Moves",
+        "subtitle": "Stress-free planning and execution"
+      },
+      "business": {
+        "title": "Commercial Moves",
+        "subtitle": "Efficient business relocations"
+      },
+      "international": {
+        "title": "International Moves",
+        "subtitle": "Seamless transition abroad"
+      },
+      "cleaning": {
+        "title": "Moving Cleaning",
+        "subtitle": "Thorough final cleaning"
+      },
+      "disposal": {
+        "title": "Disposal",
+        "subtitle": "Environmentally friendly disposal"
+      },
+      "storage": {
+        "title": "Storage",
+        "subtitle": "Secure storage solutions"
+      },
+      "piano": {
+        "title": "Piano Transport",
+        "subtitle": "Careful piano transportation"
+      },
+      "packing": {
+        "title": "Packing Service",
+        "subtitle": "Convenient packing and unpacking"
+      },
+      "assembly": {
+        "title": "Furniture Assembly",
+        "subtitle": "Professional furniture assembly"
+      },
+      "lift": {
+        "title": "Furniture Lift",
+        "subtitle": "Efficient furniture transport"
+      },
+      "transport": {
+        "title": "Furniture Transport",
+        "subtitle": "Gentle furniture transport"
+      },
+      "fullservice": {
+        "title": "Full-Service Move",
+        "subtitle": "Complete service for your move"
+      }
+    }
+  },
+  "calculator": {
+    "title": "Cost Calculator",
+    "subtitle": "Get an instant price overview for your move",
+    "from": "From",
+    "to": "To",
+    "volume": "Apartment Size",
+    "floor": "Floor Level",
+    "elevator": "Elevator Available",
+    "optionalServices": "Additional Services",
+    "calculate": "Calculate Costs",
+    "estimate": "Estimated Price",
+    "volumeOptions": {
+      "1_5": "1.5-Room",
+      "2_5": "2.5-Room",
+      "3_5": "3.5-Room",
+      "4_5": "4.5-Room",
+      "5_5": "5.5-Room",
+      "6_5": "6.5-Room"
+    },
+    "optionalServicesOptions": {
+      "packing": "Packing & Unpacking",
+      "cleaning": "Cleaning",
+      "storage": "Temporary Storage",
+      "assembly": "Furniture Assembly",
+      "piano": "Piano Transport"
+    }
+  },
+  "testimonials": {
+    "title": "Customer Testimonials",
+    "subtitle": "What our customers say about us"
+  },
+  "about": {
+    "title": "About AlpenMove",
+    "subtitle": "Your trusted partner for moves in Canton Lucerne",
+    "description": "AlpenMove is your professional moving service in the heart of Switzerland. With over 10 years of experience, we offer tailored solutions for residential and commercial clients. Our team of experienced professionals ensures stress-free and safe moves.",
+    "values": {
+      "reliability": "Reliability",
+      "quality": "Quality",
+      "punctuality": "Punctuality",
+      "care": "Care"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's talk about your move",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send Message",
+    "address": "Address",
+    "phoneNumber": "+41 41 123 45 67",
+    "emailAddress": "info@alpenmove.ch",
+    "officeAddress": "Bahnhofstrasse 1, 6000 Lucerne, Switzerland"
+  },
+  "footer": {
+    "description": "Professional moving services in Canton Lucerne",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "imprint": "Imprint",
+    "followUs": "Follow Us",
+    "copyright": "© 2025 AlpenMove. All rights reserved."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "How long does a typical move take?",
+        "answer": "The duration depends on the size of the apartment. A 2.5-room move typically takes 4-6 hours."
+      },
+      {
+        "question": "Do you offer moves on weekends?",
+        "answer": "Yes, we offer flexible appointments including weekends and holidays."
+      },
+      {
+        "question": "Are your prices transparent?",
+        "answer": "Absolutely! We provide detailed cost estimates without hidden fees."
+      },
+      {
+        "question": "Do you offer insurance for the move?",
+        "answer": "Yes, all our moves are fully insured."
+      }
+    ]
+  }
+} 
